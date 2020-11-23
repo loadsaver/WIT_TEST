@@ -1,2 +1,2 @@
 # Gemfile
-# Remember gems g
+# Remember gems get
