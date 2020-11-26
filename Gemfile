@@ -1,2 +1,2 @@
 # Gemfile
-# Remember gems get insta
+# Remember gems get instal
