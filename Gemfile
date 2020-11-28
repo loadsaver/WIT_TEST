@@ -1,2 +1,2 @@
 # Gemfile
-# Remember gems get installe
+# Remember gems get installed
