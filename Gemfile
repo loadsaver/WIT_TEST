@@ -1,2 +1,2 @@
 # Gemfile
-# Remember gems get installed by r
+# Remember gems get installed by ru
