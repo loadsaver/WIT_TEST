@@ -1,2 +1,2 @@
 # Gemfile
-# Remember gems get installed by running "bun
+# Remember gems get installed by running "bund
