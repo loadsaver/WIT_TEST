@@ -1,2 +1,2 @@
 # Gemfile
-# Remember gems get installed by running "bundle insta
+# Remember gems get installed by running "bundle instal
