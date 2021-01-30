@@ -1,2 +1,2 @@
 # Gemfile
-# Remember gems get installed by running "bundle install" in the reposito
+# Remember gems get installed by running "bundle install" in the repositor
