@@ -3,4 +3,4 @@
 
 source 'http://rubygems.org'
 
-### To s
+### To spec
