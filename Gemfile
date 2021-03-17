@@ -3,4 +3,4 @@
 
 source 'http://rubygems.org'
 
-### To specify g
+### To specify ge
