@@ -3,4 +3,4 @@
 
 source 'http://rubygems.org'
 
-### To specify gem
+### To specify gems:
