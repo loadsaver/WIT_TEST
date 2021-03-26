@@ -4,4 +4,4 @@
 source 'http://rubygems.org'
 
 ### To specify gems:
-# gem 'gemnam
+# gem 'gemname
