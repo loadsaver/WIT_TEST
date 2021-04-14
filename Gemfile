@@ -6,3 +6,4 @@ source 'http://rubygems.org'
 ### To specify gems:
 # gem 'gemname'
 gem 'yahoofinance'
+g
