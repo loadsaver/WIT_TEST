@@ -1,4 +1,4 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    dif
+    diff
