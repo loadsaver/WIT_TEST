@@ -3,4 +3,4 @@ GEM
   specs:
     diff-lcs (1.2.4)
     rspec (2.13.0)
-      r
+      rs
