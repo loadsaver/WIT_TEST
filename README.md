@@ -7,3 +7,4 @@ WDI_Homework Templates
 repo](https://github-images.s3.amazonaws.com/help/Bootcamp-Fork.png)](../../fork)
 
 To get started, [fork this repo](../../fork) to the github account of ONE of your group
+memebers to create a new repository for your group (We'll call this person the
