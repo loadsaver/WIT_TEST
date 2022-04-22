@@ -12,3 +12,4 @@ memebers to create a new repository for your group (We'll call this person the
 
 
 The repository owner should then [add the other group members as
+github collaborators](https://help.github.com/articles/how-do-i-add-a-collaborator). 
