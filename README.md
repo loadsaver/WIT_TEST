@@ -17,3 +17,5 @@ github collaborators](https://help.github.com/articles/how-do-i-add-a-collaborat
 Each person in the group should clone the repo to their local machine
 
 ```
+# Get the URL from the repository owner's repo as usual. It will be of the form
+git clone git@github.com:<username>/<assignment>.git 
