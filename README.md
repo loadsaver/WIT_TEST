@@ -19,3 +19,4 @@ Each person in the group should clone the repo to their local machine
 ```
 # Get the URL from the repository owner's repo as usual. It will be of the form
 git clone git@github.com:<username>/<assignment>.git 
+# Clones your fork of the repository into the current directory in terminal
