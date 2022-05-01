@@ -24,3 +24,5 @@ git clone git@github.com:<username>/<assignment>.git
 
 ```
 # pull, work, commit, and push to the repository as per the normal github
+# workflow
+git add .
