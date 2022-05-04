@@ -29,3 +29,6 @@ git add .
 git commit -m "Description of change made"
 git push origin master
 ```
+
+#### Submitting
+* To submit the homework, make your final commits, then have the repository
