@@ -32,3 +32,5 @@ git push origin master
 
 #### Submitting
 * To submit the homework, make your final commits, then have the repository
+"owner" issue a [Pull
+Request](https://help.github.com/articles/using-pull-requests) within github.
