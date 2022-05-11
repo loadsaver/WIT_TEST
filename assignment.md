@@ -4,3 +4,5 @@
 **Objectives:**
 
 * Build an Ruby program using test-driven development that reviews concepts learned this week.
+
+**Activity:**
