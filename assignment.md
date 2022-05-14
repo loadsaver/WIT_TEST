@@ -9,3 +9,4 @@
 
 Create a stock management program using TDD. It has to:
 * Create an account for client (name, balance).
+* Every client can create multiple portfolios.
