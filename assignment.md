@@ -15,3 +15,5 @@ Create a stock management program using TDD. It has to:
 * List all client portfolios and their values (each portfolio value and sum of portfolio values) and the account balance.
 * List all stocks in a portfolio.
 * List all clients.
+
+**Note:**
