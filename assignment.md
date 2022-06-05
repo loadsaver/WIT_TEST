@@ -17,3 +17,5 @@ Create a stock management program using TDD. It has to:
 * List all clients.
 
 **Note:**
+
+Each time a portfolio balance is calculated, the program needs to go out to the web and get current 
