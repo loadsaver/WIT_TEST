@@ -22,3 +22,4 @@ Each time a portfolio balance is calculated, the program needs to go out to the 
 stock prices.
 
 Hint: in your Gemfile, add the yahoofinance gem
+Remember to require it!
