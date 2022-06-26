@@ -24,3 +24,6 @@ stock prices.
 Hint: in your Gemfile, add the yahoofinance gem
 Remember to require it!
 
+
+```
+# Hint: Write a very short test file to convince yourself that you can get a
