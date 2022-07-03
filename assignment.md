@@ -28,3 +28,5 @@ Remember to require it!
 ```
 # Hint: Write a very short test file to convince yourself that you can get a
 # ticker from yahoofinance
+YahooFinance::get_quotes(YahooFinance::StandardQuote, 'AAPL')['AAPL'].lastTrade
+```
