@@ -1,1 +1,1 @@
-RSp
+RSpec
