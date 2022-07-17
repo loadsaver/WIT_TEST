@@ -1,1 +1,1 @@
-RSpec.co
+RSpec.conf
