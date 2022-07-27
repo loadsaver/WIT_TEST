@@ -1,1 +1,1 @@
-RSpec.confi
+RSpec.config
