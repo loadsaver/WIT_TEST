@@ -1,1 +1,1 @@
-RSpec.configur
+RSpec.configure
