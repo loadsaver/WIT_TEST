@@ -1,1 +1,2 @@
-RSpec.configure do |config
+RSpec.configure do |config|
+ 
