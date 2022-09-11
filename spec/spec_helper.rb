@@ -1,2 +1,2 @@
 RSpec.configure do |config|
-  config.co
+  config.col
