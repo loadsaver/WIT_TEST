@@ -1,2 +1,2 @@
 RSpec.configure do |config|
-  config.color_enabled = tr
+  config.color_enabled = tru
