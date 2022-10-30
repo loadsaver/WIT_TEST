@@ -1,3 +1,3 @@
 RSpec.configure do |config|
   config.color_enabled = true
-  config.tty = tr
+  config.tty = tru
