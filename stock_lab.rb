@@ -7,3 +7,4 @@ def get_stock_price(ticker)
 end	
 
 def get_transaction_value(ticker, shares)
+		return get_stock_price(ticker) * shares
