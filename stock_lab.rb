@@ -8,3 +8,6 @@ end
 
 def get_transaction_value(ticker, shares)
 		return get_stock_price(ticker) * shares
+end
+
+class Stock
