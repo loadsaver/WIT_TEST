@@ -12,3 +12,4 @@ end
 
 class Stock
 	attr_reader :ticker, :number_of_shares
+	# ticker
