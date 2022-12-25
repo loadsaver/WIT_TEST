@@ -11,3 +11,4 @@ def get_transaction_value(ticker, shares)
 end
 
 class Stock
+	attr_reader :ticker, :number_of_shares
