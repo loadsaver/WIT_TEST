@@ -15,3 +15,4 @@ class Stock
 	# ticker
 	# number of shares
 	def initialize(ticker, number_of_shares)
+		@ticker = ticker
