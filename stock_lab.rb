@@ -25,3 +25,4 @@ class Stock
 	end
 
 	def selling_shares(shares_to_sell)
+		# @number_of_shares = @number_of_shares + shares_to_add
