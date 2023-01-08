@@ -28,3 +28,5 @@ class Stock
 		# @number_of_shares = @number_of_shares + shares_to_add
 		if shares_to_sell < @number_of_shares
 			@number_of_shares -= shares_to_sell
+		else
+			return false
