@@ -30,3 +30,4 @@ class Stock
 			@number_of_shares -= shares_to_sell
 		else
 			return false
+		end
