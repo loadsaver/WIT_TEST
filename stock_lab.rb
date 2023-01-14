@@ -31,3 +31,4 @@ class Stock
 		else
 			return false
 		end
+	end
