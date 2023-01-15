@@ -32,3 +32,5 @@ class Stock
 			return false
 		end
 	end
+
+	def get_price
