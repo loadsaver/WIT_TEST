@@ -34,3 +34,5 @@ class Stock
 	end
 
 	def get_price
+		get_stock_price(@ticker)
+	end	
