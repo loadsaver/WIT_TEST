@@ -37,3 +37,5 @@ class Stock
 		get_stock_price(@ticker)
 	end	
 end
+
+class Portfolio
