@@ -39,3 +39,4 @@ class Stock
 end
 
 class Portfolio
+	# value
