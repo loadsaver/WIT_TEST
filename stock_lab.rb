@@ -41,3 +41,4 @@ end
 class Portfolio
 	# value
 	# portfolio_name
+	def initialize
