@@ -43,3 +43,4 @@ class Portfolio
 	# portfolio_name
 	def initialize
 		@stocks={}
+	end	
