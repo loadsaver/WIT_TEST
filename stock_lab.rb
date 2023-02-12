@@ -44,3 +44,5 @@ class Portfolio
 	def initialize
 		@stocks={}
 	end	
+
+	# Pass balance here? 
