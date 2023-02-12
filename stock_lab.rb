@@ -46,3 +46,4 @@ class Portfolio
 	end	
 
 	# Pass balance here? 
+	def add_stock(ticker, number_of_shares)
