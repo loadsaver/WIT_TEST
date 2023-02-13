@@ -48,3 +48,4 @@ class Portfolio
 	# Pass balance here? 
 	def add_stock(ticker, number_of_shares)
 		if @stocks[ticker]
+			# we already have a stock that exists
