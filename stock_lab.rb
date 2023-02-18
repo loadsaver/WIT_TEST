@@ -50,3 +50,5 @@ class Portfolio
 		if @stocks[ticker]
 			# we already have a stock that exists
 		else
+			# we need to add a stock object
+		end
