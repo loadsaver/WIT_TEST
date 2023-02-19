@@ -52,3 +52,4 @@ class Portfolio
 		else
 			# we need to add a stock object
 		end
+	end
