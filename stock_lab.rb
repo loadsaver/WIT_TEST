@@ -53,3 +53,4 @@ class Portfolio
 			# we need to add a stock object
 		end
 	end
+end	
