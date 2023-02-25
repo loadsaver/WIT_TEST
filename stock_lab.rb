@@ -56,3 +56,4 @@ class Portfolio
 end	
 
 class Client
+	# cash_balance
