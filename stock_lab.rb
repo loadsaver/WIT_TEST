@@ -58,3 +58,4 @@ end
 class Client
 	# cash_balance
 	def initialize(initial_cash_balance)
+		@portfolios = {}
