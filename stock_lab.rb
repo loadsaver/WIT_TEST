@@ -54,3 +54,5 @@ class Portfolio
 		end
 	end
 end	
+
+class Client
