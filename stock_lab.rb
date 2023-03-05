@@ -61,3 +61,5 @@ class Client
 		@portfolios = {}
 		@cash_balance=initial_cash_balance
 	end	
+
+	def add_portfolio(portfolio_name)
