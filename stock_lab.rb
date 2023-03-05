@@ -64,3 +64,5 @@ class Client
 
 	def add_portfolio(portfolio_name)
 		# Check to see if portfolio exists
+		# add it if it doesn't
+	end	
