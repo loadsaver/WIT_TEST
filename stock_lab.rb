@@ -68,3 +68,5 @@ class Client
 	end	
 
 	def add_stock_to_portfolio(portfolio_name, ticker, shares)
+		# XXX check to make sure portfolio exists, and if it does
+		portfolio = @portfolios[portfolio_name]
