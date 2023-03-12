@@ -66,3 +66,5 @@ class Client
 		# Check to see if portfolio exists
 		# add it if it doesn't
 	end	
+
+	def add_stock_to_portfolio(portfolio_name, ticker, shares)
