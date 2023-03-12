@@ -71,3 +71,4 @@ class Client
 		# XXX check to make sure portfolio exists, and if it does
 		portfolio = @portfolios[portfolio_name]
 		if self.enough_money?(ticker,shares)
+			portfolio.add_stock(ticker, number_of_shares
