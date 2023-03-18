@@ -73,3 +73,4 @@ class Client
 		if self.enough_money?(ticker,shares)
 			portfolio.add_stock(ticker, number_of_shares
 		else
+			puts "Not enough money"
