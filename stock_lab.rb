@@ -74,3 +74,4 @@ class Client
 			portfolio.add_stock(ticker, number_of_shares
 		else
 			puts "Not enough money"
+		end	
