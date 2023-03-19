@@ -75,3 +75,4 @@ class Client
 		else
 			puts "Not enough money"
 		end	
+	end	
