@@ -78,3 +78,4 @@ class Client
 	end	
 	def enough_money?(ticker, shares)
 		transaction_cost = get_transaction_value(ticker,shares)
+		if transaction_cost > @cash_balance
