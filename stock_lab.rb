@@ -76,3 +76,5 @@ class Client
 			puts "Not enough money"
 		end	
 	end	
+	def enough_money?(ticker, shares)
+		transaction_cost = get_transaction_value(ticker,shares)
