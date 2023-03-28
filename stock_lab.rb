@@ -81,3 +81,4 @@ class Client
 		if transaction_cost > @cash_balance
 			return false
 		else
+			return true
