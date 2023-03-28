@@ -80,3 +80,4 @@ class Client
 		transaction_cost = get_transaction_value(ticker,shares)
 		if transaction_cost > @cash_balance
 			return false
+		else
