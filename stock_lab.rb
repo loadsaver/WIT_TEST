@@ -82,3 +82,4 @@ class Client
 			return false
 		else
 			return true
+		end
