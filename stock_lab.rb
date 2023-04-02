@@ -87,3 +87,5 @@ class Client
 end	
 
 new_stock = Stock.new('AAPL', 100)
+puts "#{new_stock.ticker}, #{new_stock.number_of_shares} shares, $#{new_stock.get_price}"
+# XXX Lots of other code
