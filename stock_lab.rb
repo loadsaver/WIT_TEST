@@ -85,3 +85,5 @@ class Client
 		end
 	end	
 end	
+
+new_stock = Stock.new('AAPL', 100)
